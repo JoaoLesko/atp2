@@ -1,0 +1,27 @@
+body{
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    width: 100%;
+    padding: 10px;
+    border: none;
+    text-align: center;
+    background-color: bisque;
+    color: black;
+    cursor: pointer;
+    margin: 3px;
+}
+
+button:hover{
+    background-color: burlywood;
+}
+
+input{
+    width: 200px;
+    padding: 10px;
+    border: solid 1px #CCC;
+    margin: 3px;
+}
